@@ -1,6 +1,8 @@
 team : Leopards
 
-manager : Dayoon
+manager : HyeonSeo
+
+coach : Oscar
 
 members :
 - JinHo
