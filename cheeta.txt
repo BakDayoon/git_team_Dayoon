@@ -5,3 +5,5 @@ manager : Seop
 members :
 - JinHo
 - HyeonSeo
+- SoYeon
+
