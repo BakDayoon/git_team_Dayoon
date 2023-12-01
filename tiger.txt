@@ -1,9 +1,10 @@
 team : Tigers
 
-manager : Donga
+manager : MiSeon
 
 members :
 - JinHo
 - InHyeok
 - Seop
 - George
+- Donga
