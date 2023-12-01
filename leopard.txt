@@ -1,0 +1,6 @@
+team : Leopards
+
+manager : MiSeon
+
+members :
+- JinHo
